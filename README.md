@@ -1,5 +1,9 @@
 BLDC Motor Speed Control
+
+
 Overview
+
+
 This project demonstrates a basic implementation for controlling the speed of a Brushless DC (BLDC) motor using a joystick and a Servo motor. The joystick input is read from an analog pin, and its value is used to adjust the speed of the motor by varying the servo angle. This project is ideal for understanding the basics of motor control and joystick interfacing with an Arduino.
 
 Components
